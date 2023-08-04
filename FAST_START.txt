@@ -1,0 +1,14 @@
+
+ - Update inc.sh for your machine
+
+ - You may need to update the definition of XTRM in strt.sh also.
+
+ - You can set different assets to start up in strt.sh. You need dcr.sh but you
+   can copy&paste to dash.sh, zec.sh, etc. as required.
+
+ - Run strt.sh
+ - Run sim.sh
+
+ - You can kill all the harnesses with kill.sh but take care because it will
+   delete other tmux sessions. It is more of a zombie killer.
+

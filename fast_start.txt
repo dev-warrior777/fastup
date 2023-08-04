@@ -1,9 +1,0 @@
-You may need to update the definition of XTRM in strt.sh
-
- - Update inc.sh for your machine
- - Run strt.sh
- - Run sim.sh
-
-You can kill all the harnesses with kill.sh but take care because it will
-delete other tmux sessions. It is more of a zombie killer.
-
