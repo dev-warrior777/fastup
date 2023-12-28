@@ -8,7 +8,7 @@ Script includes. Some path definitions for your own machine.
 
 ## strt.sh
 
-- Starts up 3 chain harnessesL: _Decred_, _Bitcoin_ & _Firo_. 
+- Starts up 3 chain harnesses: _Decred_, _Bitcoin_ & _Firo_. 
 
 - Cheats with firo writing a temp file _/tmp/startedfiroharness_ when it has fully started.
 
