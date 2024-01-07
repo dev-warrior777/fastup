@@ -13,7 +13,7 @@ echo `pwd`
 PARAMS=
 if [ "$1" == "" ]
 then
-	PARAMS='dcrfiro'
+	PARAMS='dcrdash'
 else
 	PARAMS=$@
 fi
