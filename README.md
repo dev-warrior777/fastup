@@ -2,6 +2,10 @@
 
 Hacked together Xterm scripts to run `simnet-trade-tests`.
 
+# Now two branches `dash` & `firo`
+
+git switch to the one you want
+
 ## inc.sh
 
 Script includes. Some path definitions for your own machine.
@@ -25,3 +29,4 @@ General purpose kill everything script. Use the harness _quit_ methods first to 
 ## harness.sh
 
 Drop in replacement for dex/testing/dcrdex/harness.sh
+
